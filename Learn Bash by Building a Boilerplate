@@ -1,0 +1,7 @@
+In this course I learned about Bash commands by building a Boilerplate. 
+following are the commands :
+echo -> it is use to print
+pwd -> print working directory or to view full path of directory
+ls -> to view list of files and folder 
+cd -> change directory
+more <filename> -> to open particular file or folder
